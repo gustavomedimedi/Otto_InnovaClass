@@ -96,6 +96,8 @@ void loop() {
   // robot.saltito();
 }
 ```
+![Imagen de WhatsApp 2025-09-19 a las 21 21 59_db4e2beb](https://github.com/user-attachments/assets/2e25c7c5-f6c1-4cfb-8f1e-aff88da88959)
+
 
 No dudes en descomentar los ejemplos en la función `loop()` para probar los diferentes movimientos.
 
