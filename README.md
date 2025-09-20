@@ -98,6 +98,9 @@ void loop() {
 ```
 ![Imagen de WhatsApp 2025-09-19 a las 21 21 59_db4e2beb](https://github.com/user-attachments/assets/2e25c7c5-f6c1-4cfb-8f1e-aff88da88959)
 
+![Imagen de WhatsApp 2025-09-19 a las 21 21 59_44de81c7](https://github.com/user-attachments/assets/7eda0bce-4950-4b7a-a3e6-0c7025c7ff64)
+![Imagen de WhatsApp 2025-09-19 a las 21 21 59_ed29498d](https://github.com/user-attachments/assets/10aa5551-fc48-4dcb-a729-9661a0578bea)
+![Imagen de WhatsApp 2025-09-19 a las 21 21 31_434ad01a](https://github.com/user-attachments/assets/daf4cd88-0375-4df9-94a6-5404b6536f2d)
 
 No dudes en descomentar los ejemplos en la función `loop()` para probar los diferentes movimientos.
 
